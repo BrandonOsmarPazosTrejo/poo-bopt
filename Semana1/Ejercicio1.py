@@ -14,7 +14,7 @@ class Banco():
     def __init__(self):
         print ("Clase BBVA Bancomer")
     def Pagar(self):
-        print("A travez de cajero")
+        print("Atravez de cajero")
     def Depositar(self):
         print("Cuentas o servisios")
     def Retirar(self):
@@ -52,4 +52,3 @@ print(BBVA.numero_cuenta)
 print(BBVA.numero_cliente)
 print(BBVA.tarjeta)
 
-BBVA.Pagar()
