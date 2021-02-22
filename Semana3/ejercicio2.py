@@ -1,10 +1,5 @@
 class Convertidor_de_termperatura():
-    '''
-    Nombre:Brandon Osmar Pazos Trejo
-    Grupo: tics 21
-    Gecha: 14/02/2021
-    Descripcion: primero en lista=[] se pondran los tres grados, en forma de lista despues poner que seran 3 entradas, de las cuales se sumaran los grados se divira entre cuantos son las temperaturas ingrsadas despues usas la formula para convertir a °Farenheit
-    '''
+  
 
     def x (self):
         self.entrada = int(input("Número de temperaturas: "))
