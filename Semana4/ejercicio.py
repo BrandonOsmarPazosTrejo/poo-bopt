@@ -2,7 +2,7 @@ class Tabla_de_evaluacion():
     #Nombre:Brandon Osmar Pazos Trejo
     #Grupo: tics 21
     #Gecha: 14/02/2021
-    #Descripcion: while true es para evaluar si lo que esta dentro de el, cumple cada uno con las funciones y poner un segundo bucle, dentro del segundo while se pondra las operaciones y el resultado, dentro del bucle if para comprobar si la condición se cumple y break para cerrar un bucle o ciclo. 
+    #Descripcion: while true es para evaluar si lo que esta dentro de el, cumple cada uno con las funciones y poner un segundo bucle, dentro del segundo while se pondra las operaciones y el resultado, dentro del bucle if para comprobar si la condición se cumple y break para cerrar un bucle o ciclo.... 
     def __init__(self):
         pass
     def Datos(self):
